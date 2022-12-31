@@ -1,0 +1,4 @@
+RISCV üzerinde C kodu derleme için linux terminal komutu  :   $ riscv32-unknown-linux-gnu-gcc -march=rv32id -S  main.c++ -o  output.asm  
+
+RISCV üzerinde C++ kodu derlemek için linux terminal komutu : $ riscv32-unknown-linux-gnu-g++ -march=rv32id -S  main.c++ -o  output.asm  
+
